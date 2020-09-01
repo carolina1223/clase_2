@@ -5,7 +5,7 @@
 #++++++++++++++++++++++++++++++++++++++++++++++++++#
 # 1. Manejo de la biblioteca y gestion de paquetes #
 #++++++++++++++++++++++++++++++++++++++++++++++++++#
-
+#estoy practicando como clonar un repositorio de github
 ### Paquetes instalados 
 installed.packages()[,c(1,3,4)]
 
